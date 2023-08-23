@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
 	unsigned char shellcode[] =
-		"\xshell\xcode\xhere\";
+		"shellcodehere";
 
 	HANDLE processHandle;
 	HANDLE remoteThread;
