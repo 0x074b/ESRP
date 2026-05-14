@@ -1,7 +1,7 @@
 # ESRP
 Executing Shellcode in Remote Process
 
-# Usage 🛠
+# Usage
 ```
 C:\Users\you\desktop>main.exe 5634
 ```
@@ -9,5 +9,5 @@ C:\Users\you\desktop>main.exe 5634
 
 (Place your shellcode inside (line 7) before compiling)
 
-# Contact 💬
+# Contact
 #### Discord : capitaine_barnacles
